@@ -1,4 +1,4 @@
-# machine_learning
+# Matemáticas para Machine Learning 
 
 En este repositorio muestro la parte computacional de las matemáticas
 necesarias para Machine Learning, basandome en el libro:
