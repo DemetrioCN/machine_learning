@@ -1,4 +1,4 @@
-# machine_learning
+# Matemáticas para Machine Learning 
 
 En este repositorio muestro la parte computacional de las matemáticas
 necesarias para Machine Learning, basandome en el libro:
@@ -6,14 +6,14 @@ https://mml-book.github.io/
 
 ## Índice
 
-# Álgebra Lineal
+### Álgebra Lineal
 
-# Geometría Analítica
+### Geometría Analítica
 
-# Descomposición de Matrices
+### Descomposición de Matrices
 
-# Cálculo Vectorial
+### Cálculo Vectorial
 
-# Distribuciones y Probabilidad
+### Distribuciones y Probabilidad
 
-# Optimización Continua
+### Optimización Continua
